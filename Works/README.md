@@ -9,7 +9,7 @@
 
 # 3.- Tickets
 
-<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Tickets.png" width="300" height="100"/>
+<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Tickets.png" width="500" height="300"/>
 
 # 4.- Bubble
 
