@@ -21,4 +21,4 @@
 
 # 6.- Palindrome
 
-<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Palindromo.png" width="700" height="450"/>
+<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Palindromo.png" width="800" height="450"/>
