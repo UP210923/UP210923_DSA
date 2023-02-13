@@ -5,11 +5,11 @@
 
 # 2.- Secret Number Game
 
-<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Numrandom.png" width="700" height="450"/>
+<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Numrandom.png" width="650" height="450"/>
 
 # 3.- Tickets
 
-<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Tickets.png" width="700" height="450"/>
+<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Tickets.png" width="650" height="450"/>
 
 # 4.- Bubble
 
@@ -21,4 +21,4 @@
 
 # 6.- Palindrome
 
-<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Palindromo.png" width="900" height="380"/>
+<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Palindromo.png" width="500" height="600"/>
