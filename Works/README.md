@@ -5,7 +5,7 @@
 
 # 2.- Secret Number Game
 
-<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Numrandom.png" width="700" height="350"/>
+<img src="https://github.com/UP210923/UP210923_DSA/blob/main/Works/imagenes/Numrandom.png" width="700" height="400"/>
 
 # 3.- Tickets
 
